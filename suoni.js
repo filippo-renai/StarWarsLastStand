@@ -1,4 +1,4 @@
-//la gestione della musica dei videogiochi
+//la gestione della musica del videogioco
 function sound() {
    if (musicPressed) {
       document.getElementById('game').pause();
